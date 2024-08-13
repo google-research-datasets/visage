@@ -16,11 +16,26 @@ The repo contains the data cards for the ViSAGe dataset, following the format pr
 ## Citation
 
 ```
-@inproceedings{jha-2024-beyond,
-  title={ViSAGe: A Global-Scale Analysis of Visual Stereotypes in Text-to-Image Generation},
-  author={Jha, Akshita and Prabhakaran, Vinodkumar and Denton, Remi and Laszlo, Sarah and Dave, Shachi and Qadri, Rida and Reddy, Chandan K and Dev, Sunipa},
-  journal={arXiv preprint arXiv:2401.06310},
-  year={2024}
+@inproceedings{jha-etal-2024-visage,
+    title = "{V}i{SAG}e: A Global-Scale Analysis of Visual Stereotypes in Text-to-Image Generation",
+    author = "Jha, Akshita  and
+      Prabhakaran, Vinodkumar  and
+      Denton, Remi  and
+      Laszlo, Sarah  and
+      Dave, Shachi  and
+      Qadri, Rida  and
+      Reddy, Chandan  and
+      Dev, Sunipa",
+    editor = "Ku, Lun-Wei  and
+      Martins, Andre  and
+      Srikumar, Vivek",
+    booktitle = "Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+    month = aug,
+    year = "2024",
+    address = "Bangkok, Thailand",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2024.acl-long.667",
+    pages = "12333--12347",
 }
 ```
 
